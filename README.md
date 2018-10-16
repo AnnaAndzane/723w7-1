@@ -4,3 +4,10 @@ Homework Task:
 * have a rest
 * publish a link to Webinar (Week 6)
   (Please, keep the workflow of viza, test2 project)
+
+
+```python
+a = 22
+
+print(a)
+```
