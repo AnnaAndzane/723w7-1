@@ -8,9 +8,12 @@
 alt="IMAGE ALT TEXT HERE"/></a>
 
 *and this picture...*
+
 [![IMAGE ALT TEXT HERE](https://github.com/AnnaAndzane/723w7-1/blob/master/32324223_2113116038716466_2066146343327367168_n.jpg)](https://drive.google.com/file/d/15Y7nB7wO5O6mQ5BoG3stq69DYSpXQMlI/view?usp=sharing)
 
-### And ofcourse, study Phython!
+*now you can relax*
+
+### And then study Phython!
 
 ```python
 a = 22
