@@ -15,6 +15,8 @@ alt="IMAGE ALT TEXT HERE"/></a>
 
 ### And then study Phython!
 
+***Code will be updated as soon as I figure it out***
+
 ```python
 a = 22
 
