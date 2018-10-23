@@ -11,3 +11,10 @@ a = 22
 
 print(a)
 ```
+
+<a href="https://drive.google.com/file/d/1KRwxeJ94nPdW7zxnthvn4eG3ZNXqPgOs/view?usp=sharing
+" target="_blank"><img src="https://drive.google.com/file/d/1TcwsQhL5o99W8OYiiSOVPGf8jPPC2dSS/view?usp=sharing" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/viktorszagorskis/test2/master/Screenshot%202018-10-16%2017.11.32.png)](http://www.youtube.com/watch?v=IKRdfo79cgM)
